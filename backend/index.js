@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(cors());
 
 // To connect with your mongoDB database
-const url = `mongodb+srv://praveen200040109:praveen@cluster0.witeqrj.mongodb.net/users`;
+const url = ``;
 const connectionParams = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
